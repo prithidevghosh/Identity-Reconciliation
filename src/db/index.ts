@@ -32,4 +32,5 @@ const connectDB = async (): Promise<void> => {
     }
 }
 
-export default connectDB;
+
+export { sequelize, connectDB };
