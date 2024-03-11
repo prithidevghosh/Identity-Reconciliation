@@ -1,6 +1,6 @@
 # Identity Reconciliation API
 
-### A robust solution for tracking customer identity across multiple purchases on e-commerce platforms. Built with Typescript, Node JS, Postgresql, this API stores customer contact information (email or phone number) in a relational database table named Contact. Seamlessly integrate with your website's checkout events to ensure accurate and efficient identity tracking..
+### A robust solution for tracking customer identity across multiple purchases on e-commerce platforms. Built with Typescript, Node JS, Postgresql, this API stores customer contact information (email or phone number) in a relational database table. Seamlessly integrate with your website's checkout events to ensure accurate and efficient identity tracking..
 
 |Deployed Link|
 | --- |
