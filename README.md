@@ -4,7 +4,7 @@
 
 |Deployed Link|
 | --- |
-|`https://identity-reconciliation-1.onrender.com/`|
+|`https://identity-reconciliation-czkm.onrender.com`|
 
 <h3><i>Prerequisites</i></h3>
 <ul>
@@ -64,7 +64,7 @@ AWS_RDS_DB_NAME="your db name"
 
 ```bash
 
-curl --location 'https://identity-reconciliation-1.onrender.com/api/v1/identify' \
+curl --location 'https://identity-reconciliation-czkm.onrender.com/api/v1/identify' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "email": "a@email.com",
