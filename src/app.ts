@@ -9,7 +9,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get("/",(req: Request,res:Response)=>{
-     res.send("hello")
+     return res.redirect("https://www.youtube.com/watch?v=h9QNUcrjtOs")
 })
 app.use("/api/v1/identify", userRouter)
 
